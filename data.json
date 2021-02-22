@@ -1,0 +1,58 @@
+{
+    "companyList": 
+    [
+        {"id": 0, "reference": "AM1002", "companyname": "Testing", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 1, "reference": "AM1003", "companyname": "Testing1", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 2, "reference": "AM1004", "companyname": "Testing2", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 3, "reference": "AM1005", "companyname": "Testing3", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 4, "reference": "AM1006", "companyname": "Testing4", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 5, "reference": "AM1007", "companyname": "Testing5", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 6, "reference": "AM1008", "companyname": "Testing6", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 7, "reference": "AM1009", "companyname": "Testing7", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 8, "reference": "AM1010", "companyname": "Testing8", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 9, "reference": "AM1011", "companyname": "Testing9", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 10, "reference": "AM1012", "companyname": "Testing10", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 11, "reference": "AM1013", "companyname": "Testing11", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 12, "reference": "AM1014", "companyname": "Testing12", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 13, "reference": "AM1015", "companyname": "Testing13", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 14, "reference": "AM1016", "companyname": "Testing14", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 15, "reference": "AM1017", "companyname": "Testing15", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"},
+        {"id": 16, "reference": "AM1018", "companyname": "Testing16", "director": "AA", "tradingStatus": "Trading", "taxPlanning": "Yes"}
+    ],
+    "employeeList": 
+    [
+        {"id": 0, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"},
+        {"id": 1, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"},
+        {"id": 2, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"},
+        {"id": 3, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"},
+        {"id": 4, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"},
+        {"id": 5, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"},
+        {"id": 6, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"},
+        {"id": 7, "empReference": "AM1002", "name": "John", "email": "email@hotmail.co.uk", "username": "JohnPL123", "isDormant": "Yes", "isLeaver": "Yes"}
+    ],
+    "invoiceList":
+    [
+        {"id": 0, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 1, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 2, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 3, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 4, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 5, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 6, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 7, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 8, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 9, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" },
+        {"id": 10, "number": "AM1002", "contactRef": "Testing", "reference": "AA", "type": "Trading", "date": "Yes", "agency": "Test", "description": "Testing", "net": "Test", "tax": "Testing", "outstanding": "No", "posted": "Yes", "lastSent": "N/A" }
+    ],
+    "illustList":
+    [
+        {"id": 0, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"},
+        {"id": 1, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"},
+        {"id": 2, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"},
+        {"id": 3, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"},
+        {"id": 4, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"},
+        {"id": 5, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"},
+        {"id": 6, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"},
+        {"id": 7, "surname": "Edwards", "forename": "John", "status": "Active", "date": "21/06/2020", "lastSaved": "21/05/2020", "followUpDate": "21/07/2020", "email": "Test@justaccounts.com", "bdm": "Yes", "abdm": "Yes", "emailSent": "Yes", "details": "None", "illustration": "Yes"}
+    ]
+}
