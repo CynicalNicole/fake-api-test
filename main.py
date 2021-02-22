@@ -7,7 +7,6 @@ with open('data.json') as json_data:
     apiData = json.load(json_data)
 
 app = flask.Flask(__name__)
-app.config["DEBUG"] = True
 
 @app.after_request
 def after_request(response):
@@ -93,5 +92,3 @@ def errorResponse(errorCode, errorMessage):
     }
 
     return jsonify(errorJson)
-
-app.run()
